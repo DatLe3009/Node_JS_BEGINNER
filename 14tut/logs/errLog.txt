@@ -1,0 +1,7 @@
+20240229	16:34:20	d9dab90f-2de0-4b5e-abe7-b453ae8a398a	TypeError: fsPromises.readFil is not a function
+20240301	11:28:50	6c8e0b2d-78a7-4bee-a4b6-e71822d4960c	Error: Not allowed by CORS
+20240302	12:35:17	d52fcfb7-dfcd-4b85-8880-f37e3e5377b0	TypeError: req.json is not a function
+20240302	13:28:16	286614dc-8274-447d-a04a-436f0f446dd3	ReferenceError: employees is not defined
+20240302	13:30:04	edff88ef-7dfb-4bce-83c1-341d2874e833	ReferenceError: employees is not defined
+20240302	13:31:31	49f24e3f-2db4-4f84-9fc9-cd68639d71db	ReferenceError: employees is not defined
+20240302	13:42:44	a3ec4444-f8e6-44a0-a3a0-df86ffec50f4	ReferenceError: Cannot access 'employee' before initialization
